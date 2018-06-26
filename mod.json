@@ -1,0 +1,9 @@
+{
+	"name": "building-sockets",
+	"version": "1.0.0",
+	"label": "Building Sockets",
+	"url": "http://github.com/0ADMods/building-sockets",
+	"description": "A mod that allows one to restrict specific building construction on predefined spots.",
+	"dependencies": ["0ad=0.0.23"],
+	"type": "Gameplay"
+}
