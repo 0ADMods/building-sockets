@@ -1,0 +1,15 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+* eol=crlf
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.dae text
+*.json text
+*.xml text
+*.cpp text
+*.h text
+*.hpp text
+*.c text
+
+*.dds binary
+*.png binary
